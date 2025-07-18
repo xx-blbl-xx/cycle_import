@@ -1,6 +1,8 @@
 package package2
 
-import "fmt"
+import (
+	"fmt"
+)
 
 var P2 = "Package 2 Variable"
 
