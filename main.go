@@ -1,8 +1,9 @@
 package main
 
 import (
-	p1 "cycle_import/package_1"
 	"fmt"
+
+	p1 "cycle_import_0/package_1"
 )
 
 func main() {

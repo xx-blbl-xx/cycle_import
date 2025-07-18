@@ -1,8 +1,9 @@
 package package1
 
 import (
-	p2 "cycle_import/package_2"
 	"fmt"
+
+	p2 "cycle_import_0/package_2"
 )
 
 var P1 = "Package 1 Variable"
